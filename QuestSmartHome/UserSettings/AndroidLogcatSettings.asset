@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "RFCNC10RMRJ",
         "name": "com.Brodey.QuestSmartHome",
-        "processId": 27628,
+        "processId": 18226,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -24,6 +24,18 @@
             "deviceId": "RFCNC10RMRJ",
             "name": "com.Brodey.QuestSmartHome",
             "processId": 27628,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCNC10RMRJ",
+            "name": "com.Brodey.QuestSmartHome",
+            "processId": 15248,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCNC10RMRJ",
+            "name": "com.Brodey.QuestSmartHome",
+            "processId": 18226,
             "exited": false
         }
     ],

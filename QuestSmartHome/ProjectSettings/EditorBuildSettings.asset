@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MobileTest.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  m_configObjects: {}
+  - enabled: 0
+    path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/AugmentedObjects.unity
+    guid: 9afeada2bbd240b4981cfb6abb525418
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 31fcd1250eb38d54f80fa62df2bc03f5, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 994e06faf02c8c24eaea7e3b1040f302, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c1c58f78f5fd00345b4a81e2eefb4be2, type: 2}
